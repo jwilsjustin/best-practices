@@ -2,4 +2,10 @@
 Just documenting concepts/articles I read
 
 ## Web pages
-[Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) (Yahoo)
+- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) (Yahoo)
+- [Web Fundamentals](https://developers.google.com/web/fundamentals/) (Google)
+- [The truth about non-blocking JavaScript](http://calendar.perfplanet.com/2010/the-truth-about-non-blocking-javascript/)
+- [Your Javascript Goes Where?](http://elegantcode.com/2010/03/30/your-javascript-goes-where/)
+
+## Architecture
+[The microservices cargo cult](http://www.stavros.io/posts/microservices-cargo-cult/)
