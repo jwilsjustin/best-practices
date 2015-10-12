@@ -1,5 +1,6 @@
-# Best Practices in Programming
-Just documenting concepts/articles I read
+# Best Practices
+### Selectively supporting my opinions
+Just documenting concepts/articles I read. I mainly created this so I can quickly back-up my opinions when I get into an argument :grimacing:
 
 ## Web
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) (Yahoo)
