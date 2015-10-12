@@ -10,3 +10,4 @@ Just documenting concepts/articles I read
 
 ## Architecture
 - [The microservices cargo cult](http://www.stavros.io/posts/microservices-cargo-cult/)
+- [The Infinite Space Between Words](http://blog.codinghorror.com/the-infinite-space-between-words/)
