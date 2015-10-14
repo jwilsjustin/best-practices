@@ -1,3 +1,5 @@
+The magic of using a `lambda` to defer the loading of a block of code until `#call()`
+
 ```ruby
 # In the controller
 @data = lambda { Post.where("created_at > ?", 10.days.ago) }
