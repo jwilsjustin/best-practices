@@ -6,10 +6,7 @@
 - [Javascript](#javascript)
 
 ### Rails
-- list
-- will
-- go
-- here
+- http://blog.meldium.com/home/2013/4/22/dont-spam-your-users-batch-notifications-in-rails
 
 ### Ruby
 - list
