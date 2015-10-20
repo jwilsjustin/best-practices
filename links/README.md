@@ -15,10 +15,10 @@
 
 ### Javascript
 - [.bind() For Dummies](https://medium.com/@dave_lunny/bind-for-dummies-5d1a750725b8)
-- http://eloquentjavascript.net/1st_edition/contents.html
+- [Eloquent Javascript](http://eloquentjavascript.net/1st_edition/contents.html)
 
 
 ### Blogs
 - [www.justinweiss.com](http://www.justinweiss.com/blog/)
 - [blog.honeybadger.io](http://blog.honeybadger.io/)
-- [blog.codeship.com/](https://blog.codeship.com/)
+- [blog.codeship.com](https://blog.codeship.com/)
