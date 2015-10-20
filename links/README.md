@@ -21,6 +21,6 @@
 
 
 ### Blogs
-- [www.justinweiss.com](http://www.justinweiss.com/blog/)
+- [justinweiss.com/blog](http://www.justinweiss.com/blog/)
 - [blog.honeybadger.io](http://blog.honeybadger.io/)
 - [blog.codeship.com](https://blog.codeship.com/)
