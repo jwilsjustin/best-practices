@@ -1,12 +1,13 @@
 # Longer list of links 
 
 ##### Contents
-- [Rails](#rails)
-- [Ruby](#ruby)
-- [Javascript](#javascript)
+1. [Rails](#rails)
+2. [Ruby](#ruby)
+3. [Javascript](#javascript)
+4. [Blogs](#blogs)
 
 ### Rails
-- http://blog.meldium.com/home/2013/4/22/dont-spam-your-users-batch-notifications-in-rails
+- [Don't Spam Your Users: Batch Notifications in Rails](http://blog.meldium.com/home/2013/4/22/dont-spam-your-users-batch-notifications-in-rails)
 - [Token Based Authentication in Rails](http://blog.codeschool.io/2014/02/03/token-based-authentication-rails/)
 
 ### Ruby
