@@ -10,6 +10,7 @@
 - [Don't Spam Your Users: Batch Notifications in Rails](http://blog.meldium.com/home/2013/4/22/dont-spam-your-users-batch-notifications-in-rails)
 - [Token Based Authentication in Rails](http://blog.codeschool.io/2014/02/03/token-based-authentication-rails/)
 - [Everything you know about html_safe is wrong](http://makandracards.com/makandra/2579-everything-you-know-about-html_safe-is-wrong)
+- [How to Preload Rails Scopes](http://www.justinweiss.com/articles/how-to-preload-rails-scopes/)
 
 ### Ruby
 - [GitHub Ruby style guide](https://github.com/styleguide/ruby)
