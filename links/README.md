@@ -11,6 +11,7 @@
 - [Token Based Authentication in Rails](http://blog.codeschool.io/2014/02/03/token-based-authentication-rails/)
 - [Everything you know about html_safe is wrong](http://makandracards.com/makandra/2579-everything-you-know-about-html_safe-is-wrong)
 - [How to Preload Rails Scopes](http://www.justinweiss.com/articles/how-to-preload-rails-scopes/)
+- [100ms to Glass with Rails and Turbolinks](http://www.nateberkopec.com/2015/05/27/100-ms-to-glass-with-rails-and-turbolinks.html)
 
 ### Ruby
 - [GitHub Ruby style guide](https://github.com/styleguide/ruby)
