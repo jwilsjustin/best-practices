@@ -14,7 +14,6 @@
 
 ### Ruby
 - [GitHub Ruby style guide](https://github.com/styleguide/ruby)
-- [Ruby DSLs for fun & profit](https://blog.atechmedia.com/ruby-dsls-for-fun/)
 
 ### Javascript
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
