@@ -14,6 +14,7 @@
 
 ### Ruby
 - [GitHub Ruby style guide](https://github.com/styleguide/ruby)
+- [Five Ruby Methods You Should Be Using](https://blog.engineyard.com/2015/five-ruby-methods-you-should-be-using)
 
 ### Javascript
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
