@@ -3,6 +3,7 @@
 Just documenting concepts/articles I read. I mainly created this so I can quickly back-up my opinions when I get into an argument :grimacing:
 
 ## Web
+- [Remove Render-Blocking JavaScript](https://developers.google.com/speed/docs/insights/BlockingJS) (Google)
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) (Yahoo)
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/) (Google)
 - [The truth about non-blocking JavaScript](http://calendar.perfplanet.com/2010/the-truth-about-non-blocking-javascript/)
