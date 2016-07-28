@@ -14,6 +14,7 @@ Just documenting concepts/articles I read. I mainly created this so I can quickl
 ## Architecture
 - [The microservices cargo cult](http://www.stavros.io/posts/microservices-cargo-cult/)
 - [The Infinite Space Between Words](http://blog.codinghorror.com/the-infinite-space-between-words/) (codinghorror)
+- [Premature Optimization](http://programmers.stackexchange.com/questions/80084/is-premature-optimization-really-the-root-of-all-evil)
 
 ## Rails
 - [How Basecamp Next got to be so damn fast without using much client-side UI](https://signalvnoise.com/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui) (DHH)
