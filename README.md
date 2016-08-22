@@ -16,9 +16,12 @@ Just documenting concepts/articles I read. I mainly created this so I can quickl
 - [The Infinite Space Between Words](http://blog.codinghorror.com/the-infinite-space-between-words/) (codinghorror)
 - [Premature Optimization](http://programmers.stackexchange.com/questions/80084/is-premature-optimization-really-the-root-of-all-evil)
 
-## Rails
+## Ruby/Rails
 - [How Basecamp Next got to be so damn fast without using much client-side UI](https://signalvnoise.com/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui) (DHH)
 - [How Shopify Scales Rails](http://www.slideshare.net/jduff/how-shopify-scales-rails-20443485)
+- [Minitest Cheat Sheet](http://chriskottom.com/freebies/cheatsheets_free.pdf)
+
+
 
 
 Idea: Build a better "rails-footnotes" implementaion that's as beautiful as Intercom's in-app messages.
