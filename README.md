@@ -21,8 +21,6 @@ Just documenting concepts/articles I read. I mainly created this so I can quickl
 - [How Shopify Scales Rails](http://www.slideshare.net/jduff/how-shopify-scales-rails-20443485)
 - [Minitest Cheat Sheet](http://chriskottom.com/freebies/cheatsheets_free.pdf)
 - [Command pattern](https://drivy.engineering/code_simplicity_command_pattern/)
-
-
-
+- [Design Pattern: Command and Concierge](http://www.sihui.io/design-pattern-command)
 
 Idea: Build a better "rails-footnotes" implementaion that's as beautiful as Intercom's in-app messages.
