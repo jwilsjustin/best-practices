@@ -11,6 +11,7 @@ Just documenting concepts/articles I read. I mainly created this so I can quickl
 - [Web Development Best Practices: What’s An Ideal Page Weight?](http://dyn.com/blog/web-development-best-practices-whats-an-ideal-page-weight/)
 - [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Architecture
 - [The microservices cargo cult](http://www.stavros.io/posts/microservices-cargo-cult/)
