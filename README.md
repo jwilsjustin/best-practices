@@ -1,6 +1,4 @@
 # Best Practices
-### Selectively supporting my opinions
-Just documenting concepts/articles I read. I mainly created this so I can quickly back-up my opinions when I get into an argument :grimacing:
 
 ## Web
 - [Remove Render-Blocking JavaScript](https://developers.google.com/speed/docs/insights/BlockingJS) (Google)
