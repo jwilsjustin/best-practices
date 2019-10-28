@@ -22,5 +22,6 @@
 - [Minitest Cheat Sheet](http://chriskottom.com/freebies/cheatsheets_free.pdf)
 - [Command pattern](https://drivy.engineering/code_simplicity_command_pattern/)
 - [Design Pattern: Command and Concierge](http://www.sihui.io/design-pattern-command)
+- [How Ruby Can Surprise You](https://tech.showmax.com/2019/10/how-ruby-can-surprise-you)
 
 Idea: Build a better "rails-footnotes" implementaion that's as beautiful as Intercom's in-app messages.
